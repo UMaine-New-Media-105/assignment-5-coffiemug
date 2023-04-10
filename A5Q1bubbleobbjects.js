@@ -1,4 +1,3 @@
-
 let bubble1;
 function setup() {
   createCanvas(960, 540);
@@ -48,10 +47,18 @@ class Bubble{
     stroke('white');
     strokeWeight(4);
     ellipse(this.x,this.y,this.r*2);
+    stroke('cyan');
+    ellipse(this.x+4,this.y+3,this.r*2);
+    
+    stroke('yellow');
     strokeWeight(6);
     arc(this.x-this.r/4,this.y-this.r/3,35,25,160,240);
+    stroke('white');
     fill('white');
-    rect(this.x+this.r/3,this.y+this.r/8,this.r/3,this.r/2.5,4);
+    rect(this.x+this.r/4,this.y+this.r/8,this.r/3,this.r/2.5,4);
+    noFill();
+    stroke('rgb(255,134,238)');
+    arc(this.x+this.r/4,this.y+this.r/3,this.r/1.5,this.r/1.5,330,100);
     pop();
     
   }
