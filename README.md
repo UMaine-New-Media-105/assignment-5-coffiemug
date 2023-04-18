@@ -8,3 +8,8 @@ draw 5 vibrating bubbles using a class and objects.
 A5Q2
 https://editor.p5js.org/coffiemug/sketches/dioDEd7cQ
 using the class you created, draw 50 bubbles from an array with a for() loop, and use another for() loop to draw the array in the draw function. they bounce off the walls instead of jittering in place now. I also randomized the starting x and y positions, the size (r, for radius), and both the vertical and horizontal speed.
+
+A5Q3
+https://editor.p5js.org/coffiemug/sketches/giNfFMhip
+create the particles, breeders, and catchers for your sim game! I created this tulip field as my particles, bubbles as my breeders— which are already moving and colliding properly with the canvas boundaries although they do not breed yet— and butterflies as my catchers, which also move properly and will eventually pop the bubbles upon collision.
+this is a pretty nonsensical concept for this idea but I wanted to do something fun :) I plan to make the bubbles multiply when they hit the canvas walls as well, as the bubbles touching each other and multiplying that way makes even less sense. but there will still be collision detectiono between sprites in the final sim as the butterflies will pop the bubbles.
