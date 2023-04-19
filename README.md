@@ -13,3 +13,8 @@ A5Q3
 https://editor.p5js.org/coffiemug/sketches/giNfFMhip
 create the particles, breeders, and catchers for your sim game! I created this tulip field as my particles, bubbles as my breeders— which are already moving and colliding properly with the canvas boundaries although they do not breed yet— and butterflies as my catchers, which also move properly and will eventually pop the bubbles upon collision.
 this is a pretty nonsensical concept for this idea but I wanted to do something fun :) I plan to make the bubbles multiply when they hit the canvas walls as well, as the bubbles touching each other and multiplying that way makes even less sense. but there will still be collision detectiono between sprites in the final sim as the butterflies will pop the bubbles.
+
+
+A5Q4
+https://editor.p5js.org/coffiemug/sketches/Xi5WdA6W1
+activate the bubbles so that a new bubble is created when they bounce back to the left. 
