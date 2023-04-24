@@ -18,3 +18,8 @@ this is a pretty nonsensical concept for this idea but I wanted to do something 
 A5Q4
 https://editor.p5js.org/coffiemug/sketches/Xi5WdA6W1
 activate the bubbles so that a new bubble is created when they bounce back to the left. 
+
+
+A5Q5
+https://editor.p5js.org/coffiemug/sketches/hGkmIwRl3
+activate butterflies so they pop the bubbles upon collision. also added a wingflap animation in place of the random jitter for the bbutterflies, and made them bounce morre smoothly off the top and bottom edges by distinguishing between flySpeedX and flySpeedY. tweaked bubble numbers and made new ones spawn on both sides of the canvas. really happy with and proud of this assignment :) great way to wind up the class, thank you both Jon and VJ for a wonderful semester!
